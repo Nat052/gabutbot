@@ -21,10 +21,10 @@ global.APIKeys = {
 
 // Other
 global.owner = ['Nomor kamu']
-global.ownernomer = "Nomor Kamu"
-global.premium = ['Nomor kamu']
+global.ownernomer = "6287847559705"
+global.premium = ['6287847559705']
 global.packname = 'Sticker By'
-global.author = 'GabutBot v3.1'
+global.author = 'HansBot'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -52,7 +52,7 @@ global.mess = {
 // Limit
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: "Infinity",
 }
 
 // Fake
